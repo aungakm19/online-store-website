@@ -165,7 +165,6 @@
                                         @endphp
                                         @endforeach
                                         <div class="stat-digit">$ {{ $a }}</div>
-                                        
                                     </div>
                                 </div>
                                 </center>
